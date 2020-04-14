@@ -1,6 +1,6 @@
 # fourier-rekker 
 
 ## Requires:
-  *cv2
-  *svg.path
-  *numpy
+  * cv2
+  * svg.path
+  * numpy
