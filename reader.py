@@ -4,7 +4,6 @@ from path import Path
 from vector import Vector
 import cmath
 import re
-import copy
 
 class Reader:
     def __init__(self, n, upr, width, height, path_width):
